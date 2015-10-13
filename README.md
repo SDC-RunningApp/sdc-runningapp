@@ -1,1 +1,3 @@
-# sdc-runningapp
+# Running App
+
+More details coming soon.
