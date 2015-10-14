@@ -30,6 +30,6 @@ UI and Data Store
     o	Button to begin run
     o	Button to pause run(could be same as above, alternate state)
     o	Live Run data
-	Timer
-	Speed
-	Other visual feedback (Discussed red/green acceptance area bar)
+      	Timer
+      	Speed
+      	Other visual feedback (Discussed red/green acceptance area bar)
