@@ -1,0 +1,35 @@
+UI and Data Store
+  •	Activities (Screens)
+    o	(Possibly) Login
+    o	Home w/ Activity Bar
+      	Settings 
+      	Run History
+      	Current Run Info
+    o	Configure Run
+    o	Run 
+  •	Home Activity (Katie)
+    o	Activity bar with Settings, Run History and Current Run Info
+    o	Button to switch to Configure Run Activity
+    o	Button to switch to Run Activity
+  •	Activity Bar
+    o	Button to switch to Settings Activity (Katie)
+      	Settings: threshold volume, unit(si or standard) toggle, UI themes, Push notifications on/off, user info (later)
+    o	Button to switch to Run History Activity (Jake)
+      	Scrollable list, by runs, contains some run data
+    o	Button to switch to Current Run Info Activity (Jake)
+      	Graphical display, run data
+  •	Configure Run Activity (David)
+    o	Distortion options area
+      	Select type of distortion
+      	Adjust distortion settings
+    o	Pace options area
+      	Select pace unit (minutes/1mi or mi/hr)
+      	Adjust range for acceptance
+    o	Button to switch to Run Activity
+  •	Run Activity (Ellery)
+    o	Button to begin run
+    o	Button to pause run(could be same as above, alternate state)
+    o	Live Run data
+      	Timer
+      	Speed
+      	Other visual feedback (Discussed red/green acceptance area bar)
