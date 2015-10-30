@@ -15,6 +15,8 @@ import java.util.Calendar;
 
 public class GPSSpeedo implements LocationListener
 {
+    ArrayList<Double> speedReports = new ArrayList<Double>(); //Stores information every time pace changes
+    
     @Override
     public void onLocationChanged(Location location) {
         //if no location change data is sent
