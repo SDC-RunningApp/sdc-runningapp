@@ -14,9 +14,9 @@ public class Distorter {
     }
 
     public void playSound() {
-        mediaPlayer = MediaPlayer.create(applicationContext, /*sound file*/);
-        mediaPlayer.setLooping(true);
-        mediaPlayer.start();
+       // mediaPlayer = MediaPlayer.create(applicationContext, /*sound file*/);
+        //mediaPlayer.setLooping(true);
+        //mediaPlayer.start();
     }
 
     public void stopSound() {
